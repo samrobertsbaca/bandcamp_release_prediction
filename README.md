@@ -35,8 +35,8 @@ This project is of significance primarily for unsigned independent artists who a
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://github.com/samrobertsbaca/bandcamp_release_prediction/blob/main/scrape_data_Aug-20-2021_013514.csv) within this repo.
-3. Bandcamp Webscraper code scripts are kept [here](https://github.com/samrobertsbaca/bandcamp_release_prediction/blob/main/Bandcamp_Webscraper.ipynb)
-4. Data processing/transformation scripts are being kept [here](https://github.com/samrobertsbaca/bandcamp_release_prediction/blob/main/ReleaseGenre_Prediction.ipynb)
+3. Bandcamp Webscraper code scripts are kept [here](https://github.com/samrobertsbaca/bandcamp_release_prediction/blob/main/Bandcamp_Webscraper.ipynb).
+4. Data processing/transformation scripts are being kept [here](https://github.com/samrobertsbaca/bandcamp_release_prediction/blob/main/ReleaseGenre_Prediction.ipynb).
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Bandcamp Webscraper Notebook](https://github.com/samrobertsbaca/bandcamp_release_prediction/blob/main/Bandcamp_Webscraper.ipynb)
